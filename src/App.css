@@ -1,3 +1,82 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('./images/background.png');
+  display: flex;
+  font-family: Arial , Helvetica , sans-serif;
+  justify-content: center;
+  padding: 1%;
+}
+
+p {
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  margin: 30px 0;
   text-align: center;
 }
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.521);
+  border: 1px solid white;
+  border-radius: 8px 0;
+  color: white;
+  margin: 15px 0;
+  padding: 12px;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: 1px solid white;
+  padding: 7%;
+  text-align: center;	  text-align: center;
+}	
+
+.card {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin: 1.5cm 0;
+  text-align: center;
+}
+
+img {
+  transition: all 3s;
+  width: 120px;
+}
+
+.card_mission {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: auto;
+}
+
+.missions {
+  background-color: rgba(0, 0, 0, 0.616);
+  border: 1px solid white;
+  border-radius: 5px 10px;
+  height: 180px;
+  margin: 20px;
+  width: 250px;
+}
+
+.missions_p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+
+img:hover {
+  transform: scale(1.5);
+  transition: 0.5ms
+}  
