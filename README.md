@@ -14,9 +14,7 @@ Project developed while studying at Trybe bootcamp
 
 ## Instructions for viewing the project:
 
-1. Download all files and use `npm start`; 
-
-or
+1. Download all files and using `npm install` and  then use `npm start`; 
 
 2. Access through the Vercel link: https://trybe-solar-system-delta.vercel.app/
 
