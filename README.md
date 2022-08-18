@@ -20,5 +20,5 @@ Project developed while studying at Trybe bootcamp
 
 ## GIF from the project:
 <p align="center">
-  <img  src="" alt="React App"/>
+  <img  src="https://user-images.githubusercontent.com/47367373/185503921-c6045c96-ec2e-4de8-ac61-9f2da0dc6a12.gif" alt="React App"/>
 </p>
