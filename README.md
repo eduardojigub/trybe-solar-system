@@ -10,7 +10,7 @@ Project developed while studying at Trybe bootcamp
 
 ## What was developed
 
-- A SPA using ReactJS
+- A Single-Page-Application using ReactJS
 
 ## Instructions for viewing the project:
 
